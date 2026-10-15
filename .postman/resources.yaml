@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: b91e9bb1-efe6-4c5b-8d8d-d3aff9ad6433
+
+localResources:
+  collections:
+    - ../medistock-backend-main/medistock_postman_collection.json
